@@ -1,74 +1,48 @@
-# 👋 Hi, I'm Shreya Arora
+# hey there 👋
 
-```python
-if __name__ == "__main__":
-    developer = {
-        "name": "Shreya Arora",
-        "location": "Delhi, India",
-        "passion": "Building cool things with code",
-        "languages": ["Python", "JavaScript"],
-        "tools": ["GitHub", "VSCode", "Aseprite"],
-    }
-    print(f"Welcome to {developer['name']}'s profile! 🚀")
-```
+**cs student** | **python lover** | **she/her**
+
+delhiᐧindia ✧ building cool things
 
 ---
 
-## 👩‍💻 About Me
+## tech & tools
 
-I'm a **Computer Science student** passionate about programming, mathematics, and digital creativity. I love building projects that solve real problems and learning through hands-on coding.
+![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-cc2927?style=flat&logo=mysql&logoColor=white)
 
-- 🎓 Bachelor's degree student in CS
-- 💻 Python enthusiast | Data Structures & Algorithms lover
-- 🎨 Digital art creator with Aseprite
-- 📚 Interested in studying in Germany
-- 🧮 Math + Code = ❤️
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
----
-
-## 🛠️ Tech Stack
-
-| **Languages** | **Tools** | **Platforms** |
-|---|---|---|
-| Python | GitHub | Windows |
-| JavaScript | VSCode | macOS |
-| Java | Git | Linux |
-| SQL | Aseprite | |
-| HTML/CSS | Tkinter | |
+![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6B6B?style=flat)
+![Algorithms](https://img.shields.io/badge/-Algorithms-4ECDC4?style=flat)
+![Digital Art](https://img.shields.io/badge/-Digital%20Art-FFE66D?style=flat)
+![Tkinter](https://img.shields.io/badge/-Tkinter-3776ab?style=flat)
 
 ---
 
-## 📁 Featured Projects
+## what i do
 
-- 🛒 **Shopping Wishlist Cost Analyzer** - A Python project to track and analyze product costs
-- 🖥️ Various coding challenges from LeetCode & HackerRank
-- 🎮 Creative projects using Python Tkinter for UI
-
----
-
-## 📊 GitHub Stats
-
-![Your Name's github stats](https://github-readme-stats.vercel.app/api?username=aroralemon&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aroralemon&theme=radical)
+• **code** — python projects, dsa challenges, web stuff
+• **create** — digital art with aseprite
+• **learn** — cs fundamentals, algorithms, math
+• **build** — projects that solve real problems
 
 ---
 
-## 🌐 Connect with Me
+## find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-arora-15462338)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aroralemon)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyarora812@gmail.com)
-
----
-
-## 🎯 Current Goals
-
-- ✨ Master advanced Python and DSA
-- 🚀 Build more impactful projects
-- 📖 Contribute to open-source
-- 🌍 Explore opportunities in tech
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-arora-15462338)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aroralemon)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyarora812@gmail.com)
 
 ---
 
-⭐️ *Feel free to fork my repos and collaborate!*
+✨ *always learning, always building*
