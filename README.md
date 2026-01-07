@@ -13,8 +13,7 @@ delhiᐧindia ✧ building cool things
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
-[SQL](https://img.shields.io/badge/-SQL-cc2927?style=flat&logo=mysql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
