@@ -20,7 +20,6 @@ delhiᐧindia ✧ building cool things
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-f05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ![Data Structures](https://img.shields.io/badge/-Data%20Structures-FF6B6B?style=flat)
