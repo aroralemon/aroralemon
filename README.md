@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> <img src="https://media.tenor.com/images/4c0e11451a7dd66f2ab0a2a3a4ebf7f0/tenor.gif" width="150px" alt="cute cat typing" /></div>
+
 # hey there 👋
 
 **cs student** | **python lover** | **she/her**
@@ -39,9 +42,10 @@ delhiᐧindia ✧ building cool things
 
 ## find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-arora-15462338)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-arora-154623380)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aroralemon)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shreyarora812@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/aro.ralemon)
 
 ---
 
