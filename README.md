@@ -2,7 +2,7 @@
 
 # hey there 👋
 
-**cs student** | **python lover** | **she/her**
+**cs student** | **ilovecats** | **she/her**
 
 delhiᐧindia ✧ building cool things
 
