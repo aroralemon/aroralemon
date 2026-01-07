@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> <img src="https://media.tenor.com/images/4c0e11451a7dd66f2ab0a2a3a4ebf7f0/tenor.gif" width="150px" alt="cute cat typing" /></div>
+
 
 # hey there 👋
 
